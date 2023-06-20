@@ -2,7 +2,7 @@
 User Profiles and Feed APIs Clone.
 
 ## PLAN OUR PROFILE API
-- BASIC REQUIREMENTS
+- **BASIC REQUIREMENTS**
 1. Create new profile 
    - Handle registration of new users
    - Validate profile data 
@@ -19,7 +19,7 @@ User Profiles and Feed APIs Clone.
    
 5. Delete profile
 
- ### API URLs
+- **API URLs**
 
 ## PLAN OUR FEED API
 - BASIC REQUIREMENTS
