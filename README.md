@@ -19,3 +19,12 @@ User Profiles and Feed APIs Clone.
    
 5. Delete profile
 
+## PLAN OUR FEED API
+- BASIC REQUIREMENTS
+1. Creating new feed items
+2. Updating feed items
+3. Deleting profile feed items
+   - Logged in user only
+
+4. Viewing other profile status updates
+   - All users
