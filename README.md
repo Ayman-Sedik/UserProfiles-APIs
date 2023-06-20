@@ -19,6 +19,8 @@ User Profiles and Feed APIs Clone.
    
 5. Delete profile
 
+ ### API URLs
+
 ## PLAN OUR FEED API
 - BASIC REQUIREMENTS
 1. Creating new feed items
