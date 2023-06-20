@@ -1,3 +1,7 @@
-# User Profiles and Feed APIs Clone.
+# UserProfiles-APIs
+User Profiles and Feed APIs Clone.
+
 # PLAN OUR PROFILE API
+-BASIC REQUIREMENTS
+
 
