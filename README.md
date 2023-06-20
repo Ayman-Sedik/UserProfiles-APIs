@@ -19,6 +19,7 @@ User Profiles and Feed APIs Clone.
    
 5. Delete profile
 
+
 - **API URLs**
 1. /api/profile/
    - list all profiles when HTTP GET method is called
@@ -30,7 +31,7 @@ User Profiles and Feed APIs Clone.
    - remove it completely using HTTP DELETE 
 
 ## PLAN OUR FEED API
-- BASIC REQUIREMENTS
+- **BASIC REQUIREMENTS**
 1. Creating new feed items
 2. Updating feed items
 3. Deleting profile feed items
@@ -38,3 +39,15 @@ User Profiles and Feed APIs Clone.
 
 4. Viewing other profile status updates
    - All users
+  
+- **API URLs**
+1. /api/feed/
+   - list all feed items
+   - GET (list feed items)
+   - POST (create feed item for logged in user)
+
+2. /api/feed/<feed_item_id>/
+   - manage specific feed items
+   - GET (get the feed item)
+   - PUT / PATCH (update feed item)
+   - DELETE (delete feed item)
