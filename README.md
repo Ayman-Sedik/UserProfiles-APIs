@@ -1,4 +1,4 @@
-# UserProfiles-APIs
+# UserProfiles APIs
 User Profiles and Feed APIs Clone.
 <p>[Demo video]</p> "https://www.linkedin.com/feed/update/urn:li:activity:7077500605937664000/"
 
