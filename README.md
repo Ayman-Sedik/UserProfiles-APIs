@@ -1,4 +1,4 @@
-# [UserProfiles APIs](https://www.linkedin.com/feed/update/urn:li:activity:7077500605937664000/) - v 1.0.0 Official
+# [UserProfiles APIs](https://www.linkedin.com/feed/update/urn:li:activity:7077500605937664000/) - v 1.2.0 Official (Beta version)
 User Profiles and Feed APIs Clone.
 
 ## PLAN OUR PROFILE API
