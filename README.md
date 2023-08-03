@@ -1,6 +1,6 @@
 # UserProfiles APIs - v 1.2.0 Official (Beta version)
 User Profiles and Feed APIs Clone.
-## [Demo video](https://www.linkedin.com/feed/update/urn:li:activity:7077500605937664000/)
+## [Demo video](https://drive.google.com/file/d/1AjX1uctoISiQulcWk3Q-FGWtwdMmgRo1/view?usp=sharing)
 
 ## PLAN OUR PROFILE API
 - **BASIC REQUIREMENTS**
