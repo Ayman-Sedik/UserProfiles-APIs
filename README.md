@@ -1,4 +1,4 @@
-# UserProfiles APIs - v 1.2.0 Official (Beta version)
+# UserProfiles APIs Project
 > This project (User Profiles and Feed APIs) enables you to create and edit a new profile, create new feeds in your profile, view the status of other profiles of all users, and much more features...
 ## [Demo video](https://drive.google.com/file/d/1AjX1uctoISiQulcWk3Q-FGWtwdMmgRo1/view?usp=sharing)
 
